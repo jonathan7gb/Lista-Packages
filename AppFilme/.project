@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>AppTelefoneCelular</name>
+	<name>AppFilme</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1747094244199</id>
+			<id>1747094244189</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
