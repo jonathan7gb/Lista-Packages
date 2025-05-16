@@ -1,8 +1,8 @@
-package br.com.appfilme.model;
+package br.com.appmusica.model;
 
 import java.util.Scanner;
 
-public class Filme {
+public class Musica {
 	
 	private String titulo;
 	private String artista;

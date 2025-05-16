@@ -16,7 +16,7 @@ public class GerenciadorBicicleta{
 
     public void listar(){
         if(lista_bicicleta.isEmpty()){
-            System.out.println("A lista de livros está vazia.");
+            System.out.println("A lista de bicicletas está vazia.");
         }
 
         for(int i = 0; i < lista_bicicleta.size(); i++){

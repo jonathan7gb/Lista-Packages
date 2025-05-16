@@ -16,7 +16,7 @@ public class GerenciadorFilme{
 
     public void listar(){
         if(lista_filme.isEmpty()){
-            System.out.println("A lista de livros está vazia.");
+            System.out.println("A lista de filmes está vazia.");
         }
 
         for(int i = 0; i < lista_filme.size(); i++){
